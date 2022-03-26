@@ -1,0 +1,9 @@
+/* WRITE YOUR CODE IN HERE!!!!  */
+
+div:nth-child(even) {
+    background-color: black;
+}
+
+div:nth-child(odd) {
+    background-color: red;
+}
